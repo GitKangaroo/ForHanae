@@ -1,4 +1,13 @@
 # Photon Counting Algorithm
+
+I suggest building your stack in the ```/afs/cern.ch/work/y/yangk/private/``` directory. Change it to your name's directory and run:
+```
+curl https://gitlab.cern.ch/rmatev/lb-stack-setup/raw/master/setup.py | python3 - stack
+cd stack
+make Panoptes
+```
+Chose the ```lhcb-master```, but I think it’s better to check with Chris Jones  (jonesc@hep.phy.cam.ac.uk).
+
 If you have successfully built the stack, use the following command to run the code in the stack folder:
 ```
 ./Panoptes/run gaudirun.py Panoptes/Rich/Panoptes/tests/qmtest/rich_photon_counting_2024_data.qmt
