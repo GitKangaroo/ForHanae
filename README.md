@@ -22,7 +22,7 @@ and the most important photon counting file (```RichPhotonCounting.py```).
 ## RichPhotonCounting.py & RichPhotonCounting.cpp
 This ```RichPhotonCounting.py``` file is where you configure the algorithm. You can, for example, change the ```evt_max``` number, turn on/off the run-by-run histograms, use a quadratic background model (the default is a linear model), etc. In the first few import statements, you can see this: 
 ```
-from PyConf.Algorithms import Rich__Future__Rec__Counting__PhotonCounting as PhotonCounting.
+from PyConf.Algorithms import Rich__Future__Rec__Counting__PhotonCounting as PhotonCounting
 ```
 Basically, the file ```RichPhotonCounting.cpp``` contains the actual algorithm for photon counting, and it (```Rich__Future__Rec__Counting__PhotonCounting```) is imported as ```PhotonCounting```.
 
