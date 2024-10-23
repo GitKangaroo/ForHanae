@@ -1,6 +1,6 @@
 # Photon Counting Algorithm
 
-I suggest building your stack in the ```/afs/cern.ch/work/y/yangk/private/``` directory. Change it to your name's directory and run:
+I suggest building your stack in the ```/afs/cern.ch/work/y/yangk/private/``` directory on lxplus. Change it to your name's directory and run:
 ```
 curl https://gitlab.cern.ch/rmatev/lb-stack-setup/raw/master/setup.py | python3 - stack
 cd stack
