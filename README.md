@@ -7,7 +7,7 @@ You can find my previous presentation about photon counting at LHCb week here:
 
 https://indico.cern.ch/event/1415543/contributions/5978684/attachments/2869247/5023000/LHCbWeek_OnlinePhotonCounting.pdf
 
-It goes through the basics of the photon counting algorithm and current results, and the important code structure is shown on page 5.
+It goes through the basics of the photon counting algorithm and current results, and the important code skeleton is shown on page 5.
 
 ## rich_photon_counting_2024_data.qmt
 
