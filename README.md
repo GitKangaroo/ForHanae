@@ -9,6 +9,8 @@ https://indico.cern.ch/event/1415543/contributions/5978684/attachments/2869247/5
 
 It goes through the basics of the photon counting algorithm and current results, and the important code skeleton is shown on page 5.
 
+The quadratic background model is developed after this talk, but you could probably understand it from the inline comments.
+
 ## rich_photon_counting_2024_data.qmt
 
 The code runs on a QMT file (```rich_photon_counting_2024_data.qmt```).
